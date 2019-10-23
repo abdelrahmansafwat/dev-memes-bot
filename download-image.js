@@ -11,5 +11,5 @@ function download(uri, filename, callback){
 };
 
 module.exports = {
-    download
+  download
 };

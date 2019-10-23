@@ -1,5 +1,3 @@
-//October 22, 2019
-
 require('dotenv').config();
 const Snoowrap = require('snoowrap');
 const Snoostorm = require('snoostorm');
